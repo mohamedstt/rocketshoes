@@ -7,7 +7,7 @@
   
 </p>
 
-<img align="right" src="../src/assets/logo.svg" width="35%" alt="logo">
+<img align="right" src=".github/logo.svg" width="35%" alt="logo">
 
 ## Tópicos
 
