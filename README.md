@@ -9,7 +9,7 @@
   
 </p>
 
-<img align="right" src="./src/assets/logo.svg" width="35%" alt="logo">
+<img align="right" src="../src/assets/logo.svg" width="35%" alt="logo">
 
 ## Tópicos
 
@@ -30,7 +30,7 @@ Rocketshos is a Netshoes clone for practice hooks. In this project: ContextApi, 
 <br>
 
 <p align="center">
-  <img src=".github/rocketShoesPreview1s.png" alt="Página inicial">
+  <img src=".github/rocketShoesPreview1.png" alt="Página inicial">
   <img src=".github/rocketShoesPreview2.png" alt="Cart">
 </p>
 
