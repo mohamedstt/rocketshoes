@@ -1,8 +1,6 @@
 # dt money
 
 <p>
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/martins-rafael/dtmoney?color=ff512f&style=flat-square">
-  <img alt="GitHub Top Language" src="https://img.shields.io/github/languages/top/martins-rafael/dtmoney?color=ff512f&style=flat-square">
   <a href="https://opensource.org/licenses/MIT">
     <img alt="License" src="https://img.shields.io/badge/license-MIT-ff512f?style=flat-square">
   </a>
@@ -25,7 +23,7 @@
 
 ## About rocketshoes
 
-Rocketshos is a Netshoes clone for practice hooks. In this project: ContextApi, UseState, FakeApi, CRUD and etc...
+Rocketshoes is a Netshoes clone for practice hooks. In this project: ContextApi, UseState, FakeApi, CRUD and etc...
 
 <br>
 
